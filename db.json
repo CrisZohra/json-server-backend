@@ -1,33 +1,94 @@
 {
-  "projects": [
-    {
+  "post": [
+  {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
+      "title": "warning",
+      "description": "storm comming",
+      "location": "north germany",
+      "date": "2023-11-15",
+      "image": "https://www.timeforkids.com/wp-content/uploads/2018/08/Storms-Images.jpg",
+      "url": "https://example.com",
+      "category": "weather"
+  },
+  {
+      "id":2,
+      "title": "knife set for sale",
+      "description": "steel",
+      "location": "paris",
+      "date": "2023-11-14",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1RgxSkbIw6JvOzw-4rwRNB8la6HiBtYkuQ&usqp=CAU",
+      "url": "https://example.com",
+      "category": "selling"
+  },
+  {
+      "id":3,
+      "title": "celebrity marries 18yo",
+      "description": "age difference?",
+      "location": "moscow",
+      "date": "2023-11-13",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikhail_Baryshnikov.jpg/330px-Mikhail_Baryshnikov.jpg",
+      "url": "https://example.com",
+      "category": "entertainment"
+  },
+  {
+      "id":4,
+      "title": "concert of classical violinist",
+      "description": "hilary hahn comming to wiesbaden",
+      "location": "wiesbaden",
+      "date": "2023-11-10",
+      "image":"https://www.concerti.de/wp-content/uploads/2019/01/Hahn-Hilary-2816-c-Dana-van-Leeuwen-Decca.jpg",
+      "url": "https://example.com",
+      "category": "events"
+  },
+  {
+    "id": 5,
+    "title": "Huge traffic jam in Logroño Road - Burgos",
+    "description": "There's a huge traffic jam in Logroño Road, in Burgos, from Mercadona to the Pilgrim roundabout. Try to avoid this road for now.",
+    "image": "",
+    "url": "",
+    "date": "2023-11-16",
+    "location": "Burgos",
+    "category": "traffic"
+  },
+  {
+    "id": 6,
+    "title": "BERLINERS, new music group",
+    "description": "BERLINERS will give their first concert in Berlin this Saturday at 20.00 in Hossfman Street, 5.",
+    "image": "",
+    "url": "",
+    "date": "2023-11-16",
+    "location": "Berlin",
+    "category": "social"
+  },
+  {
+    "id": 7,
+    "title": "Ironhacker needed",
+    "description": "Important company is looking for a recent graduated ironhacker to join their team.",
+    "image": "",
+    "url": "",
+    "date": "2023-11-16",
+    "location": "Madrid",
+    "category": "jobs"
+  },
+  {
+    "id": 8,
+    "title": "New planet discovered",
+    "description": "One of the brightest students in London University has discovered a new planet by accident during his final Bachelor's Degree Project.",
+    "image": "",
+    "url": "",
+    "date": "2023-11-16",
+    "location": "London",
+    "category": "education"
+  },
+  {
+    "id": 9,
+    "title": "New React App discovering",
+    "description": "One of the brightest students in London University has discovered a new planet by accident during his final Bachelor's Degree Project.",
+    "image": "",
+    "url": "",
+    "date": "2023-11-16",
+    "location": "London",
+    "category": "other"
+  }
   ]
 }
