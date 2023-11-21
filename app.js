@@ -5,7 +5,7 @@ const morgan = require("morgan");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 4001;
 
 server.use(middlewares);
 server.use(morgan("dev"));
@@ -17,7 +17,7 @@ server.use((req, res, next) => {
 
 server.use(middlewares);
 
-server.get("/search", (req, res) => {
+server.get("/posts/search", (req, res) => {
   const query = req.query.q;
   const posts = router.db.get("posts").value();
   const filteredPosts = posts.filter(
