@@ -2,42 +2,42 @@
   "posts": [
   {
       "id": 1,
-      "title": "warning",
-      "description": "storm comming",
-      "location": "north germany",
+      "title": "Weather Warning",
+      "description": "A storm is said to pass North Germany tomorrow evening.",
+      "location": "North Germany",
       "date": "2023-11-15",
       "image": "https://www.timeforkids.com/wp-content/uploads/2018/08/Storms-Images.jpg",
-      "url": "https://example.com",
+      "url": "",
       "category": "weather"
   },
   {
       "id": 2,
-      "title": "knife set for sale",
-      "description": "steel",
-      "location": "paris",
+      "title": "Knife set for sale",
+      "description": "A steel knife set for 25.99. All other information available in the link below.",
+      "location": "Paris",
       "date": "2023-11-14",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1RgxSkbIw6JvOzw-4rwRNB8la6HiBtYkuQ&usqp=CAU",
-      "url": "https://example.com",
+      "url": "",
       "category": "selling"
   },
   {
       "id":3,
-      "title": "celebrity marries 18yo",
-      "description": "age difference?",
-      "location": "moscow",
+      "title": "Celebrity marries 18 yo",
+      "description": "Russian celebrity marries 20 years younger super model.",
+      "location": "Moscow",
       "date": "2023-11-13",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikhail_Baryshnikov.jpg/330px-Mikhail_Baryshnikov.jpg",
-      "url": "https://example.com",
+      "url": "",
       "category": "entertainment"
   },
   {
       "id":4,
-      "title": "concert of classical violinist",
-      "description": "hilary hahn comming to wiesbaden",
-      "location": "wiesbaden",
+      "title": "Concert of classical violinist",
+      "description": "Hilary Hahn is coming to Wiesbaden in May. Tickets available January 10th",
+      "location": "Wiesbaden",
       "date": "2023-11-10",
       "image":"https://www.concerti.de/wp-content/uploads/2019/01/Hahn-Hilary-2816-c-Dana-van-Leeuwen-Decca.jpg",
-      "url": "https://example.com",
+      "url": "",
       "category": "events"
   },
   {
