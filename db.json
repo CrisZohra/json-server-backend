@@ -90,5 +90,47 @@
     "location": "London",
     "category": "other"
   }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 8,
+      "message": "He's a genius!"
+    },
+    {
+      "id": 2,
+      "postId": 9,
+      "message": "This post seems familiar"
+    },
+    {
+      "id": 3,
+      "postId": 7,
+      "message": "Why do I live in Germany?"
+    },
+    {
+      "id": 4,
+      "postId": 6,
+      "message": "I really love them."
+    },
+    {
+      "id": 5,
+      "postId": 5,
+      "message": "It's like telling someone to avoid going to the toilet."
+    },
+    {
+      "id": 6,
+      "postId": 8,
+      "message": "I don't really need a new planet thank you, could you discover a way to teleport tho?"
+    }, 
+    {
+      "id": 7,
+      "postId": 4,
+      "message": "Hilary Hahn is a queen."
+    }, 
+    {
+      "id": 8,
+      "postId": 1,
+      "message": "Take care, people!"
+    }
   ]
 }
