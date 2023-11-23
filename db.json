@@ -80,7 +80,197 @@
     "date": "23-11-2023",
     "location": "London",
     "category": "other"
+  },
+  {
+    "id": 10,
+    "title": "Historical Walking Tour in Rome",
+    "description": "Embark on a historical walking tour in Rome, exploring ancient landmarks and immersing in the rich history of the Eternal City.",
+    "location": "Rome, Italy",
+    "date": "2023-05-20",
+    "image": "https://source.unsplash.com/featured/?rome,historical-walking-tour",
+    "category": "other"
+  },
+  {
+    "id": 11,
+    "title": "Outdoor Concert in Melbourne",
+    "description": "Melbourne hosts an electrifying outdoor concert, featuring top artists and creating a memorable musical experience for attendees.",
+    "location": "Melbourne, Australia",
+    "date": "2023-11-02",
+    "image": "https://source.unsplash.com/featured/?melbourne,outdoor-concert",
+    "category": "entertainment"
+  },
+  {
+    "id": 12,
+    "title": "Community Garden Project in New York",
+    "description": "Join the community garden project in New York, fostering a sense of unity and sustainable urban gardening practices.",
+    "location": "New York, USA",
+    "date": "2023-07-07",
+    "image": "https://source.unsplash.com/featured/?new-york,community-garden",
+    "category": "social"
+  },
+  {
+    "id": 13,
+    "title": "Culinary Festival in Paris",
+    "description": "Paris hosts a culinary festival, celebrating the diversity of French cuisine with gourmet delights and culinary showcases.",
+    "location": "Paris, France",
+    "date": "2023-09-15",
+    "image": "https://source.unsplash.com/featured/?paris,culinary-festival",
+    "category": "events"
+  },
+  {
+    "id": 14,
+    "title": "Artisanal Crafts Market in Marrakech",
+    "description": "Explore the vibrant artisanal crafts market in Marrakech, showcasing handmade goods and traditional Moroccan art.",
+    "location": "Marrakech, Morocco",
+    "date": "2023-03-28",
+    "image": "https://source.unsplash.com/featured/?marrakech,artisanal-crafts",
+    "category": "selling"
+  },
+  {
+    "id": 15,
+    "title": "Language Exchange Program in Tokyo",
+    "description": "Tokyo launches a language exchange program, promoting cultural exchange and language learning among students.",
+    "location": "Tokyo, Japan",
+    "date": "2023-06-15",
+    "image": "https://source.unsplash.com/featured/?tokyo,language-exchange",
+    "category": "education"
+  },
+  {
+    "id": 16,
+    "title": "Healthcare Career Fair in Sydney",
+    "description": "Sydney hosts a healthcare career fair, connecting healthcare professionals with leading medical institutions.",
+    "location": "Sydney, Australia",
+    "date": "2023-08-28",
+    "image": "https://source.unsplash.com/featured/?sydney,healthcare",
+    "category": "jobs"
+  },
+  {
+    "id": 17,
+    "title": "E-Scooter Revolution in Barcelona",
+    "description": "Barcelona embraces the e-scooter revolution, providing a sustainable and convenient alternative for urban commuting.",
+    "location": "Barcelona, Spain",
+    "date": "2023-04-18",
+    "image": "https://source.unsplash.com/featured/?barcelona,e-scooter",
+    "category": "traffic"
+  },
+  {
+    "id": 18,
+    "title": "Healthcare Career Fair in Sydney",
+    "description": "Sydney hosts a healthcare career fair, connecting healthcare professionals with leading medical institutions.",
+    "location": "Sydney, Australia",
+    "date": "2023-08-28",
+    "image": "https://source.unsplash.com/featured/?sydney,healthcare",
+    "category": "jobs"
+  },
+  {
+    "id": 19,
+    "title": "Mild Autumn in Vancouver",
+    "description": "Vancouver enjoys a mild and colorful autumn, with leaves turning vibrant shades of red and gold.",
+    "location": "Vancouver, Canada",
+    "date": "2023-10-10",
+    "image": "https://source.unsplash.com/featured/?vancouver,autumn",
+    "category": "weather"
+  },
+  {
+    "id": 20,
+    "title": "Global Coding Challenge for Students",
+    "description": "Students worldwide participate in a coding challenge, showcasing their programming skills and creativity.",
+    "location": "Global",
+    "date": "2023-09-18",
+    "image": "https://source.unsplash.com/featured/?coding,challenge",
+    "category": "education"
+  },
+  {
+    "id": 21,
+    "title": "Virtual Reality Labs in Seoul Schools",
+    "description": "Seoul introduces virtual reality labs in schools, providing students with immersive and innovative learning experiences.",
+    "location": "Seoul, South Korea",
+    "date": "2023-02-28",
+    "image": "https://source.unsplash.com/featured/?seoul,virtual-reality",
+    "category": "education"
+  },
+  {
+    "id": 22,
+    "title": "Remote Freelancer Summit",
+    "description": "Join the virtual summit for freelancers, offering insights, networking, and opportunities for remote work professionals worldwide.",
+    "location": "Global (Virtual)",
+    "date": "2023-11-05",
+    "image": "https://source.unsplash.com/featured/?remote-work,summit",
+    "category": "jobs"
+  },
+  {
+    "id": 23,
+    "title": "Green Energy Job Expo in Berlin",
+    "description": "Berlin showcases career opportunities in the green energy sector, promoting sustainability and environmental stewardship.",
+    "location": "Berlin, Germany",
+    "date": "2023-05-30",
+    "image": "https://source.unsplash.com/featured/?berlin,green-energy",
+    "category": "jobs"
+  },
+  {
+    "id": 24,
+    "title": "Tech Startup Fair in San Francisco",
+    "description": "San Francisco hosts a tech startup fair, offering job seekers the chance to explore opportunities in the thriving tech industry.",
+    "location": "San Francisco, USA",
+    "date": "2023-07-12",
+    "image": "https://source.unsplash.com/featured/?san-francisco,startup-fair",
+    "category": "jobs"
+  },
+  {
+    "id": 25,
+    "title": "Cherry Blossom Season in Kyoto",
+    "description": "Kyoto experiences the breathtaking beauty of cherry blossoms, marking the arrival of spring.",
+    "location": "Kyoto, Japan",
+    "date": "2023-04-05",
+    "image": "https://source.unsplash.com/featured/?kyoto,cherry-blossom",
+    "category": "weather"
+  },
+  {
+    "id": 26,
+    "title": "Thunderstorm Alert in Miami",
+    "description": "Residents of Miami are advised to stay indoors as a powerful thunderstorm approaches the city.",
+    "location": "Miami, USA",
+    "date": "2023-08-20",
+    "image": "https://source.unsplash.com/featured/?miami,thunderstorm",
+    "category": "weather"
+  },
+  {
+    "id": 27,
+    "title": "Aurora Borealis Spectacle in Tromsø",
+    "description": "Tromsø witnesses a stunning display of the Northern Lights, captivating observers with vibrant colors in the night sky.",
+    "location": "Tromsø, Norway",
+    "date": "2023-01-15",
+    "image": "https://source.unsplash.com/featured/?tromso,northern-lights",
+    "category": "weather"
+  },
+  {
+    "id": 28,
+    "title": "Bicycle Parade in Amsterdam",
+    "description": "Amsterdam encourages sustainable commuting with a colorful bicycle parade through the city's iconic streets.",
+    "location": "Amsterdam, Netherlands",
+    "date": "2023-06-10",
+    "image": "https://source.unsplash.com/featured/?amsterdam,bicycle",
+    "category": "traffic"
+  },
+  {
+    "id": 29,
+    "title": "Smart Traffic System in Singapore",
+    "description": "Singapore implements an intelligent traffic system, reducing congestion and improving the efficiency of urban transportation.",
+    "location": "Singapore",
+    "date": "2023-03-25",
+    "image": "https://source.unsplash.com/featured/?singapore,traffic",
+    "category": "traffic"
+  },
+  {
+    "id": 30,
+    "title": "High-Speed Rail Launch in Shanghai",
+    "description": "Shanghai introduces a cutting-edge high-speed rail service, connecting major cities and enhancing regional transportation.",
+    "location": "Shanghai, China",
+    "date": "2023-09-08",
+    "image": "https://source.unsplash.com/featured/?shanghai,high-speed-rail",
+    "category": "traffic"
   }
+
   ],
   "comments": [
     {
