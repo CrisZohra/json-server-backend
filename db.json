@@ -5,9 +5,8 @@
       "title": "Weather Warning",
       "description": "A storm is said to pass North Germany tomorrow evening.",
       "location": "North Germany",
-      "date": "2023-11-15",
+      "date": "15-11-2023",
       "image": "https://www.timeforkids.com/wp-content/uploads/2018/08/Storms-Images.jpg",
-      "url": "",
       "category": "weather"
   },
   {
@@ -15,9 +14,8 @@
       "title": "Knife set for sale",
       "description": "A steel knife set for 25.99. All other information available in the link below.",
       "location": "Paris",
-      "date": "2023-11-14",
+      "date": "15-11-2023",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1RgxSkbIw6JvOzw-4rwRNB8la6HiBtYkuQ&usqp=CAU",
-      "url": "",
       "category": "selling"
   },
   {
@@ -25,9 +23,8 @@
       "title": "Celebrity marries 18 yo",
       "description": "Russian celebrity marries 20 years younger super model.",
       "location": "Moscow",
-      "date": "2023-11-13",
+      "date": "19-11-2023",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikhail_Baryshnikov.jpg/330px-Mikhail_Baryshnikov.jpg",
-      "url": "",
       "category": "entertainment"
   },
   {
@@ -35,9 +32,8 @@
       "title": "Concert of classical violinist",
       "description": "Hilary Hahn is coming to Wiesbaden in May. Tickets available January 10th",
       "location": "Wiesbaden",
-      "date": "2023-11-10",
+      "date": "20-11-2023",
       "image":"https://www.concerti.de/wp-content/uploads/2019/01/Hahn-Hilary-2816-c-Dana-van-Leeuwen-Decca.jpg",
-      "url": "",
       "category": "events"
   },
   {
@@ -45,8 +41,7 @@
     "title": "Huge traffic jam in Logroño Road - Burgos",
     "description": "There's a huge traffic jam in Logroño Road, in Burgos, from Mercadona to the Pilgrim roundabout. Try to avoid this road for now.",
     "image": "",
-    "url": "",
-    "date": "2023-11-16",
+    "date": "21-11-2023",
     "location": "Burgos",
     "category": "traffic"
   },
@@ -55,8 +50,7 @@
     "title": "BERLINERS, new music group",
     "description": "BERLINERS will give their first concert in Berlin this Saturday at 20.00 in Hossfman Street, 5.",
     "image": "",
-    "url": "",
-    "date": "2023-11-16",
+    "date": "21-11-2023",
     "location": "Berlin",
     "category": "social"
   },
@@ -65,8 +59,7 @@
     "title": "Ironhacker needed",
     "description": "Important company is looking for a recent graduated ironhacker to join their team.",
     "image": "",
-    "url": "",
-    "date": "2023-11-16",
+    "date": "22-11-2023",
     "location": "Madrid",
     "category": "jobs"
   },
@@ -75,8 +68,7 @@
     "title": "New planet discovered",
     "description": "One of the brightest students in London University has discovered a new planet by accident during his final Bachelor's Degree Project.",
     "image": "",
-    "url": "",
-    "date": "2023-11-16",
+    "date": "22-11-2023",
     "location": "London",
     "category": "education"
   },
@@ -85,8 +77,7 @@
     "title": "New React App discovering",
     "description": "One of the brightest students in London University has discovered a new planet by accident during his final Bachelor's Degree Project.",
     "image": "",
-    "url": "",
-    "date": "2023-11-16",
+    "date": "23-11-2023",
     "location": "London",
     "category": "other"
   }
