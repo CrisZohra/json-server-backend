@@ -2,83 +2,83 @@
   "posts": [
   {
       "id": 1,
-      "title": "Weather Warning",
-      "description": "A storm is said to pass North Germany tomorrow evening.",
-      "location": "North Germany",
-      "date": "15-11-2023",
-      "image": "https://www.timeforkids.com/wp-content/uploads/2018/08/Storms-Images.jpg",
+      "title": "Northern Lights Extravaganza in Reykjavik",
+      "description": "Reykjavik witnesses a breathtaking display of the Northern Lights, illuminating the Icelandic sky with vibrant hues.",
+      "location": "Reykjavik, Iceland",
+      "date": "2023-02-18",
+      "image": "https://source.unsplash.com/featured/?reykjavik,northern-lights",
       "category": "weather"
   },
   {
       "id": 2,
-      "title": "Knife set for sale",
-      "description": "A steel knife set for 25.99. All other information available in the link below.",
-      "location": "Paris",
-      "date": "15-11-2023",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1RgxSkbIw6JvOzw-4rwRNB8la6HiBtYkuQ&usqp=CAU",
-      "category": "selling"
+      "title": "Smart Buses Debut in London",
+      "description": "London introduces smart buses equipped with advanced technology, enhancing the efficiency and sustainability of public transportation.",
+      "location": "London, UK",
+      "date": "2023-09-05",
+      "image": "https://source.unsplash.com/featured/?london,smart-bus",
+      "category": "traffic"
   },
   {
       "id":3,
-      "title": "Celebrity marries 18 yo",
-      "description": "Russian celebrity marries 20 years younger super model.",
-      "location": "Moscow",
-      "date": "19-11-2023",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikhail_Baryshnikov.jpg/330px-Mikhail_Baryshnikov.jpg",
-      "category": "entertainment"
+      "title": "Blockchain Summit Job Fair",
+      "description": "Explore job opportunities in the blockchain industry at the Blockchain Summit Job Fair, connecting professionals and innovative companies.",
+      "location": "Global (Virtual)",
+      "date": "2023-10-20",
+      "image": "https://source.unsplash.com/featured/?blockchain,summit",
+      "category": "jobs"
   },
   {
       "id":4,
-      "title": "Concert of classical violinist",
-      "description": "Hilary Hahn is coming to Wiesbaden in May. Tickets available January 10th",
-      "location": "Wiesbaden",
-      "date": "20-11-2023",
-      "image":"https://www.concerti.de/wp-content/uploads/2019/01/Hahn-Hilary-2816-c-Dana-van-Leeuwen-Decca.jpg",
-      "category": "events"
+      "title": "Robotics Workshop for Kids in Seoul",
+      "description": "Seoul hosts a hands-on robotics workshop for kids, fostering interest and creativity in the field of robotics and technology.",
+      "location": "Seoul, South Korea",
+      "date": "2023-06-05",
+      "image": "https://source.unsplash.com/featured/?seoul,robotics-workshop",
+      "category": "education"
   },
   {
     "id": 5,
-    "title": "Huge traffic jam in Logroño Road - Burgos",
-    "description": "There's a huge traffic jam in Logroño Road, in Burgos, from Mercadona to the Pilgrim roundabout. Try to avoid this road for now.",
-    "image": "",
-    "date": "21-11-2023",
-    "location": "Burgos",
-    "category": "traffic"
+    "title": "Vintage Market in Amsterdam",
+    "description": "Discover unique treasures at the vintage market in Amsterdam, featuring a wide array of retro and timeless items.",
+    "location": "Amsterdam, Netherlands",
+    "date": "2023-04-12",
+    "image": "https://source.unsplash.com/featured/?amsterdam,vintage-market",
+    "category": "selling"
   },
   {
     "id": 6,
-    "title": "BERLINERS, new music group",
-    "description": "BERLINERS will give their first concert in Berlin this Saturday at 20.00 in Hossfman Street, 5.",
-    "image": "",
-    "date": "21-11-2023",
-    "location": "Berlin",
-    "category": "social"
+    "title": "International Film Festival in Cannes",
+    "description": "Cannes hosts a prestigious International Film Festival, showcasing cinematic excellence from around the globe.",
+    "location": "Cannes, France",
+    "date": "2023-05-25",
+    "image": "https://source.unsplash.com/featured/?cannes,film-festival",
+    "category": "events"
   },
   {
     "id": 7,
-    "title": "Ironhacker needed",
-    "description": "Important company is looking for a recent graduated ironhacker to join their team.",
-    "image": "",
-    "date": "22-11-2023",
-    "location": "Madrid",
-    "category": "jobs"
+    "title": "Community Picnic in Central Park",
+    "description": "Join the lively community picnic in Central Park, New York, for a day of food, fun, and socializing amidst nature.",
+    "location": "New York, USA",
+    "date": "2023-08-15",
+    "image": "https://source.unsplash.com/featured/?new-york,community-picnic",
+    "category": "social"
   },
   {
     "id": 8,
-    "title": "New planet discovered",
-    "description": "One of the brightest students in London University has discovered a new planet by accident during his final Bachelor's Degree Project.",
-    "image": "",
-    "date": "22-11-2023",
-    "location": "London",
-    "category": "education"
+    "title": "Virtual Reality Gaming Expo in Tokyo",
+    "description": "Tokyo hosts a cutting-edge Virtual Reality Gaming Expo, offering attendees immersive experiences and a glimpse into the future of gaming.",
+    "location": "Tokyo, Japan",
+    "date": "2023-11-10",
+    "image": "https://source.unsplash.com/featured/?tokyo,virtual-reality-gaming-expo",
+    "category": "entertainment"
   },
   {
     "id": 9,
-    "title": "New React App discovering",
-    "description": "One of the brightest students in London University has discovered a new planet by accident during his final Bachelor's Degree Project.",
-    "image": "",
-    "date": "23-11-2023",
-    "location": "London",
+    "title": "Meditation Retreat in Bali",
+    "description": "Embark on a transformative meditation retreat in Bali, embracing serenity and mindfulness in the lush landscapes of Indonesia.",
+    "location": "Bali, Indonesia",
+    "date": "2023-07-01",
+    "image": "https://source.unsplash.com/featured/?bali,meditation-retreat",
     "category": "other"
   },
   {
@@ -269,49 +269,139 @@
     "date": "2023-09-08",
     "image": "https://source.unsplash.com/featured/?shanghai,high-speed-rail",
     "category": "traffic"
-  }
+  },
+  {
+    "id": 31,
+    "title": "Sunny Days in Sydney",
+    "description": "Sydney experiences a series of sunny days, inviting locals and tourists alike to enjoy outdoor activities and the beautiful beaches.",
+    "location": "Sydney, Australia",
+    "date": "2023-05-10",
+    "image": "https://source.unsplash.com/featured/?sydney,sunny-day",
+    "category": "weather"
+  },
+  {
+    "id": 32,
+    "title": "Electric Scooter Revolution in San Francisco",
+    "description": "San Francisco embraces the electric scooter revolution, providing an eco-friendly and convenient mode of transportation for city dwellers.",
+    "location": "San Francisco, USA",
+    "date": "2023-09-12",
+    "image": "https://source.unsplash.com/featured/?san-francisco,electric-scooter",
+    "category": "traffic"
+  },
+  {
+    "id": 33,
+    "title": "Tech Career Expo in Bangalore",
+    "description": "Bangalore hosts a tech career expo, connecting job seekers with leading tech companies and fostering innovation in the industry.",
+    "location": "Bangalore, India",
+    "date": "2023-06-28",
+    "image": "https://source.unsplash.com/featured/?bangalore,tech-career-expo",
+    "category": "jobs"
+  },
+  {
+    "id": 34,
+    "title": "STEM Workshop for Teens in New York",
+    "description": "New York offers a STEM workshop for teens, inspiring the next generation of innovators with hands-on science, technology, engineering, and math activities.",
+    "location": "New York, USA",
+    "date": "2023-04-15",
+    "image": "https://source.unsplash.com/featured/?new-york,stem-workshop",
+    "category": "education"
+  },
+  {
+    "id": 35,
+    "title": "Artisan Market in Florence",
+    "description": "Florence hosts an artisan market, showcasing handmade crafts, art, and local goods, creating a vibrant atmosphere for shoppers.",
+    "location": "Florence, Italy",
+    "date": "2023-07-20",
+    "image": "https://source.unsplash.com/featured/?florence,artisan-market",
+    "category": "selling"
+  },
+  {
+    "id": 36,
+    "title": "Cultural Festival in Rio de Janeiro",
+    "description": "Rio de Janeiro celebrates its rich cultural heritage with a lively cultural festival, featuring music, dance, and traditional Brazilian cuisine.",
+    "location": "Rio de Janeiro, Brazil",
+    "date": "2023-10-05",
+    "image": "https://source.unsplash.com/featured/?rio-de-janeiro,cultural-festival",
+    "category": "events"
+  },
+  {
+    "id": 37,
+    "title": "Community Cleanup Day in Berlin",
+    "description": "Berlin organizes a community cleanup day, bringing residents together to beautify public spaces and promote environmental awareness.",
+    "location": "Berlin, Germany",
+    "date": "2023-08-08",
+    "image": "https://source.unsplash.com/featured/?berlin,community-cleanup",
+    "category": "social"
+  },
+  {
+    "id": 38,
+    "title": "Open-Air Theater in Athens",
+    "description": "Athens hosts an enchanting open-air theater performance, combining ancient Greek drama with modern theatrical elements under the starry night sky.",
+    "location": "Athens, Greece",
+    "date": "2023-09-30",
+    "image": "https://source.unsplash.com/featured/?athens,open-air-theater",
+    "category": "entertainment"
+  },
+  {
+    "id": 39,
+    "title": "Historical Walking Tour in Prague",
+    "description": "Embark on a historical walking tour in Prague, exploring the architectural wonders and stories of the Czech capital's rich history.",
+    "location": "Prague, Czech Republic",
+    "date": "2023-11-18",
+    "image": "https://source.unsplash.com/featured/?prague,historical-walking-tour",
+    "category": "other"
+  },
+  {
+    "id": 40,
+    "title": "Winter Wonderland in Toronto",
+    "description": "Toronto transforms into a winter wonderland, with snow-covered streets and festive decorations, creating a magical atmosphere for locals and visitors.",
+    "location": "Toronto, Canada",
+    "date": "2023-12-10",
+    "image": "https://source.unsplash.com/featured/?toronto,winter-wonderland",
+    "category": "weather"
+  }         
 
   ],
   "comments": [
     {
       "id": 1,
       "postId": 8,
-      "message": "He's a genius!"
+      "message": "Wish I could go!"
     },
     {
       "id": 2,
       "postId": 9,
-      "message": "This post seems familiar"
+      "message": "Should start saving money to go."
     },
     {
       "id": 3,
       "postId": 7,
-      "message": "Why do I live in Germany?"
+      "message": "You must participate, it's great!"
     },
     {
       "id": 4,
       "postId": 6,
-      "message": "I really love them."
+      "message": "Hope to see some famous people around."
     },
     {
       "id": 5,
       "postId": 5,
-      "message": "It's like telling someone to avoid going to the toilet."
+      "message": "Just what Amsterdam needed!"
     },
     {
       "id": 6,
       "postId": 8,
-      "message": "I don't really need a new planet thank you, could you discover a way to teleport tho?"
+      "message": "I don't really like games, could you discover a way to teleport tho?"
     }, 
     {
       "id": 7,
       "postId": 4,
-      "message": "Hilary Hahn is a queen."
+      "message": "Anyone knows how much is it?"
     }, 
     {
       "id": 8,
       "postId": 1,
-      "message": "Take care, people!"
+      "message": "Maybe one day I'll be there to see them."
     }
   ]
 }
