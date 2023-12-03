@@ -1,407 +1,280 @@
 {
   "posts": [
-  {
-      "id": 1,
-      "title": "Northern Lights Extravaganza in Reykjavik",
-      "description": "Reykjavik witnesses a breathtaking display of the Northern Lights, illuminating the Icelandic sky with vibrant hues.",
-      "location": "Reykjavik, Iceland",
-      "date": "2023-02-18",
-      "image": "https://source.unsplash.com/featured/?reykjavik,northern-lights",
-      "category": "weather"
-  },
-  {
-      "id": 2,
-      "title": "Smart Buses Debut in London",
-      "description": "London introduces smart buses equipped with advanced technology, enhancing the efficiency and sustainability of public transportation.",
-      "location": "London, UK",
-      "date": "2023-09-05",
-      "image": "https://source.unsplash.com/featured/?london,smart-bus",
-      "category": "traffic"
-  },
-  {
-      "id":3,
-      "title": "Blockchain Summit Job Fair",
-      "description": "Explore job opportunities in the blockchain industry at the Blockchain Summit Job Fair, connecting professionals and innovative companies.",
-      "location": "Global (Virtual)",
-      "date": "2023-10-20",
-      "image": "https://source.unsplash.com/featured/?blockchain,summit",
-      "category": "jobs"
-  },
-  {
-      "id":4,
-      "title": "Robotics Workshop for Kids in Seoul",
-      "description": "Seoul hosts a hands-on robotics workshop for kids, fostering interest and creativity in the field of robotics and technology.",
-      "location": "Seoul, South Korea",
-      "date": "2023-06-05",
-      "image": "https://source.unsplash.com/featured/?seoul,robotics-workshop",
-      "category": "education"
-  },
-  {
-    "id": 5,
-    "title": "Vintage Market in Amsterdam",
-    "description": "Discover unique treasures at the vintage market in Amsterdam, featuring a wide array of retro and timeless items.",
-    "location": "Amsterdam, Netherlands",
-    "date": "2023-04-12",
-    "image": "https://source.unsplash.com/featured/?amsterdam,vintage-market",
-    "category": "selling"
-  },
-  {
-    "id": 6,
-    "title": "International Film Festival in Cannes",
-    "description": "Cannes hosts a prestigious International Film Festival, showcasing cinematic excellence from around the globe.",
-    "location": "Cannes, France",
-    "date": "2023-05-25",
-    "image": "https://source.unsplash.com/featured/?cannes,film-festival",
-    "category": "events"
-  },
-  {
-    "id": 7,
-    "title": "Community Picnic in Central Park",
-    "description": "Join the lively community picnic in Central Park, New York, for a day of food, fun, and socializing amidst nature.",
-    "location": "New York, USA",
-    "date": "2023-08-15",
-    "image": "https://source.unsplash.com/featured/?new-york,community-picnic",
-    "category": "social"
-  },
-  {
-    "id": 8,
-    "title": "Virtual Reality Gaming Expo in Tokyo",
-    "description": "Tokyo hosts a cutting-edge Virtual Reality Gaming Expo, offering attendees immersive experiences and a glimpse into the future of gaming.",
-    "location": "Tokyo, Japan",
-    "date": "2023-11-10",
-    "image": "https://source.unsplash.com/featured/?tokyo,virtual-reality-gaming-expo",
-    "category": "entertainment"
-  },
-  {
-    "id": 9,
-    "title": "Meditation Retreat in Bali",
-    "description": "Embark on a transformative meditation retreat in Bali, embracing serenity and mindfulness in the lush landscapes of Indonesia.",
-    "location": "Bali, Indonesia",
-    "date": "2023-07-01",
-    "image": "https://source.unsplash.com/featured/?bali,meditation-retreat",
-    "category": "other"
-  },
-  {
-    "id": 10,
-    "title": "Historical Walking Tour in Rome",
-    "description": "Embark on a historical walking tour in Rome, exploring ancient landmarks and immersing in the rich history of the Eternal City.",
-    "location": "Rome, Italy",
-    "date": "2023-05-20",
-    "image": "https://source.unsplash.com/featured/?rome,historical-walking-tour",
-    "category": "other"
-  },
-  {
-    "id": 11,
-    "title": "Outdoor Concert in Melbourne",
-    "description": "Melbourne hosts an electrifying outdoor concert, featuring top artists and creating a memorable musical experience for attendees.",
-    "location": "Melbourne, Australia",
-    "date": "2023-11-02",
-    "image": "https://source.unsplash.com/featured/?melbourne,outdoor-concert",
-    "category": "entertainment"
-  },
-  {
-    "id": 12,
-    "title": "Community Garden Project in New York",
-    "description": "Join the community garden project in New York, fostering a sense of unity and sustainable urban gardening practices.",
-    "location": "New York, USA",
-    "date": "2023-07-07",
-    "image": "https://source.unsplash.com/featured/?new-york,community-garden",
-    "category": "social"
-  },
-  {
-    "id": 13,
-    "title": "Culinary Festival in Paris",
-    "description": "Paris hosts a culinary festival, celebrating the diversity of French cuisine with gourmet delights and culinary showcases.",
-    "location": "Paris, France",
-    "date": "2023-09-15",
-    "image": "https://source.unsplash.com/featured/?paris,culinary-festival",
-    "category": "events"
-  },
-  {
-    "id": 14,
-    "title": "Artisanal Crafts Market in Marrakech",
-    "description": "Explore the vibrant artisanal crafts market in Marrakech, showcasing handmade goods and traditional Moroccan art.",
-    "location": "Marrakech, Morocco",
-    "date": "2023-03-28",
-    "image": "https://source.unsplash.com/featured/?marrakech,artisanal-crafts",
-    "category": "selling"
-  },
-  {
-    "id": 15,
-    "title": "Language Exchange Program in Tokyo",
-    "description": "Tokyo launches a language exchange program, promoting cultural exchange and language learning among students.",
-    "location": "Tokyo, Japan",
-    "date": "2023-06-15",
-    "image": "https://source.unsplash.com/featured/?tokyo,language-exchange",
-    "category": "education"
-  },
-  {
-    "id": 16,
-    "title": "Healthcare Career Fair in Sydney",
-    "description": "Sydney hosts a healthcare career fair, connecting healthcare professionals with leading medical institutions.",
-    "location": "Sydney, Australia",
-    "date": "2023-08-28",
-    "image": "https://source.unsplash.com/featured/?sydney,healthcare",
-    "category": "jobs"
-  },
-  {
-    "id": 17,
-    "title": "E-Scooter Revolution in Barcelona",
-    "description": "Barcelona embraces the e-scooter revolution, providing a sustainable and convenient alternative for urban commuting.",
-    "location": "Barcelona, Spain",
-    "date": "2023-04-18",
-    "image": "https://source.unsplash.com/featured/?barcelona,e-scooter",
-    "category": "traffic"
-  },
-  {
-    "id": 18,
-    "title": "Healthcare Career Fair in Sydney",
-    "description": "Sydney hosts a healthcare career fair, connecting healthcare professionals with leading medical institutions.",
-    "location": "Sydney, Australia",
-    "date": "2023-08-28",
-    "image": "https://source.unsplash.com/featured/?sydney,healthcare",
-    "category": "jobs"
-  },
-  {
-    "id": 19,
-    "title": "Mild Autumn in Vancouver",
-    "description": "Vancouver enjoys a mild and colorful autumn, with leaves turning vibrant shades of red and gold.",
-    "location": "Vancouver, Canada",
-    "date": "2023-10-10",
-    "image": "https://source.unsplash.com/featured/?vancouver,autumn",
-    "category": "weather"
-  },
-  {
-    "id": 20,
-    "title": "Global Coding Challenge for Students",
-    "description": "Students worldwide participate in a coding challenge, showcasing their programming skills and creativity.",
-    "location": "Global",
-    "date": "2023-09-18",
-    "image": "https://source.unsplash.com/featured/?coding,challenge",
-    "category": "education"
-  },
-  {
-    "id": 21,
-    "title": "Virtual Reality Labs in Seoul Schools",
-    "description": "Seoul introduces virtual reality labs in schools, providing students with immersive and innovative learning experiences.",
-    "location": "Seoul, South Korea",
-    "date": "2023-02-28",
-    "image": "https://source.unsplash.com/featured/?seoul,virtual-reality",
-    "category": "education"
-  },
-  {
-    "id": 22,
-    "title": "Remote Freelancer Summit",
-    "description": "Join the virtual summit for freelancers, offering insights, networking, and opportunities for remote work professionals worldwide.",
-    "location": "Global (Virtual)",
-    "date": "2023-11-05",
-    "image": "https://source.unsplash.com/featured/?remote-work,summit",
-    "category": "jobs"
-  },
-  {
-    "id": 23,
-    "title": "Green Energy Job Expo in Berlin",
-    "description": "Berlin showcases career opportunities in the green energy sector, promoting sustainability and environmental stewardship.",
-    "location": "Berlin, Germany",
-    "date": "2023-05-30",
-    "image": "https://source.unsplash.com/featured/?berlin,green-energy",
-    "category": "jobs"
-  },
-  {
-    "id": 24,
-    "title": "Tech Startup Fair in San Francisco",
-    "description": "San Francisco hosts a tech startup fair, offering job seekers the chance to explore opportunities in the thriving tech industry.",
-    "location": "San Francisco, USA",
-    "date": "2023-07-12",
-    "image": "https://source.unsplash.com/featured/?san-francisco,startup-fair",
-    "category": "jobs"
-  },
-  {
-    "id": 25,
-    "title": "Cherry Blossom Season in Kyoto",
-    "description": "Kyoto experiences the breathtaking beauty of cherry blossoms, marking the arrival of spring.",
-    "location": "Kyoto, Japan",
-    "date": "2023-04-05",
-    "image": "https://source.unsplash.com/featured/?kyoto,cherry-blossom",
-    "category": "weather"
-  },
-  {
-    "id": 26,
-    "title": "Thunderstorm Alert in Miami",
-    "description": "Residents of Miami are advised to stay indoors as a powerful thunderstorm approaches the city.",
-    "location": "Miami, USA",
-    "date": "2023-08-20",
-    "image": "https://source.unsplash.com/featured/?thunderstorm",
-    "category": "weather"
-  },
-  {
-    "id": 27,
-    "title": "Aurora Borealis Spectacle in Tromsø",
-    "description": "Tromsø witnesses a stunning display of the Northern Lights, captivating observers with vibrant colors in the night sky.",
-    "location": "Tromsø, Norway",
-    "date": "2023-01-15",
-    "image": "https://source.unsplash.com/featured/?tromso,northern-lights",
-    "category": "weather"
-  },
-  {
-    "id": 28,
-    "title": "Bicycle Parade in Amsterdam",
-    "description": "Amsterdam encourages sustainable commuting with a colorful bicycle parade through the city's iconic streets.",
-    "location": "Amsterdam, Netherlands",
-    "date": "2023-06-10",
-    "image": "https://source.unsplash.com/featured/?amsterdam,bicycle",
-    "category": "traffic"
-  },
-  {
-    "id": 29,
-    "title": "Smart Traffic System in Singapore",
-    "description": "Singapore implements an intelligent traffic system, reducing congestion and improving the efficiency of urban transportation.",
-    "location": "Singapore",
-    "date": "2023-03-25",
-    "image": "https://source.unsplash.com/featured/?singapore,traffic",
-    "category": "traffic"
-  },
-  {
-    "id": 30,
-    "title": "High-Speed Rail Launch in Shanghai",
-    "description": "Shanghai introduces a cutting-edge high-speed rail service, connecting major cities and enhancing regional transportation.",
-    "location": "Shanghai, China",
-    "date": "2023-09-08",
-    "image": "https://source.unsplash.com/featured/?shanghai,high-speed-rail",
-    "category": "traffic"
-  },
-  {
-    "id": 31,
-    "title": "Sunny Days in Sydney",
-    "description": "Sydney experiences a series of sunny days, inviting locals and tourists alike to enjoy outdoor activities and the beautiful beaches.",
-    "location": "Sydney, Australia",
-    "date": "2023-05-10",
-    "image": "https://source.unsplash.com/featured/?sydney,sunny-day",
-    "category": "weather"
-  },
-  {
-    "id": 32,
-    "title": "Electric Scooter Revolution in San Francisco",
-    "description": "San Francisco embraces the electric scooter revolution, providing an eco-friendly and convenient mode of transportation for city dwellers.",
-    "location": "San Francisco, USA",
-    "date": "2023-09-12",
-    "image": "https://source.unsplash.com/featured/?san-francisco,electric-scooter",
-    "category": "traffic"
-  },
-  {
-    "id": 33,
-    "title": "Tech Career Expo in Bangalore",
-    "description": "Bangalore hosts a tech career expo, connecting job seekers with leading tech companies and fostering innovation in the industry.",
-    "location": "Bangalore, India",
-    "date": "2023-06-28",
-    "image": "https://source.unsplash.com/featured/?bangalore,tech-career-expo",
-    "category": "jobs"
-  },
-  {
-    "id": 34,
-    "title": "STEM Workshop for Teens in New York",
-    "description": "New York offers a STEM workshop for teens, inspiring the next generation of innovators with hands-on science, technology, engineering, and math activities.",
-    "location": "New York, USA",
-    "date": "2023-04-15",
-    "image": "https://source.unsplash.com/featured/?new-york,stem-workshop",
-    "category": "education"
-  },
-  {
-    "id": 35,
-    "title": "Artisan Market in Florence",
-    "description": "Florence hosts an artisan market, showcasing handmade crafts, art, and local goods, creating a vibrant atmosphere for shoppers.",
-    "location": "Florence, Italy",
-    "date": "2023-07-20",
-    "image": "https://source.unsplash.com/featured/?florence,artisan-market",
-    "category": "selling"
-  },
-  {
-    "id": 36,
-    "title": "Cultural Festival in Rio de Janeiro",
-    "description": "Rio de Janeiro celebrates its rich cultural heritage with a lively cultural festival, featuring music, dance, and traditional Brazilian cuisine.",
-    "location": "Rio de Janeiro, Brazil",
-    "date": "2023-10-05",
-    "image": "https://source.unsplash.com/featured/?rio-de-janeiro,cultural-festival",
-    "category": "events"
-  },
-  {
-    "id": 37,
-    "title": "Community Cleanup Day in Berlin",
-    "description": "Berlin organizes a community cleanup day, bringing residents together to beautify public spaces and promote environmental awareness.",
-    "location": "Berlin, Germany",
-    "date": "2023-08-08",
-    "image": "https://source.unsplash.com/featured/?berlin,community-cleanup",
-    "category": "social"
-  },
-  {
-    "id": 38,
-    "title": "Open-Air Theater in Athens",
-    "description": "Athens hosts an enchanting open-air theater performance, combining ancient Greek drama with modern theatrical elements under the starry night sky.",
-    "location": "Athens, Greece",
-    "date": "2023-09-30",
-    "image": "https://source.unsplash.com/featured/?athens,open-air-theater",
-    "category": "entertainment"
-  },
-  {
-    "id": 39,
-    "title": "Historical Walking Tour in Prague",
-    "description": "Embark on a historical walking tour in Prague, exploring the architectural wonders and stories of the Czech capital's rich history.",
-    "location": "Prague, Czech Republic",
-    "date": "2023-11-18",
-    "image": "https://source.unsplash.com/featured/?prague,historical-walking-tour",
-    "category": "other"
-  },
-  {
-    "id": 40,
-    "title": "Winter Wonderland in Toronto",
-    "description": "Toronto transforms into a winter wonderland, with snow-covered streets and festive decorations, creating a magical atmosphere for locals and visitors.",
-    "location": "Toronto, Canada",
-    "date": "2023-12-10",
-    "image": "https://source.unsplash.com/featured/?toronto,winter-wonderland",
-    "category": "weather"
-  }         
-
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "postId": 8,
-      "message": "Wish I could go!"
-    },
-    {
-      "id": 2,
-      "postId": 9,
-      "message": "Should start saving money to go."
-    },
-    {
-      "id": 3,
-      "postId": 7,
-      "message": "You must participate, it's great!"
-    },
-    {
-      "id": 4,
-      "postId": 6,
-      "message": "Hope to see some famous people around."
-    },
-    {
-      "id": 5,
-      "postId": 5,
-      "message": "Just what Amsterdam needed!"
-    },
-    {
-      "id": 6,
-      "postId": 8,
-      "message": "I don't really like games, could you discover a way to teleport tho?"
-    }, 
-    {
-      "id": 7,
-      "postId": 4,
-      "message": "Anyone knows how much is it?"
-    }, 
-    {
-      "id": 8,
-      "postId": 1,
-      "message": "Maybe one day I'll be there to see them."
-    }
-  ]
+      {
+            "id": 1,
+            "title": "Northern Lights Extravaganza in Reykjavik",
+            "description": "Reykjavik witnesses a breathtaking display of the Northern Lights, illuminating the Icelandic sky with vibrant hues.",
+            "location": "Reykjavik, Iceland",
+            "date": "2023-02-18",
+            "image": "https://images.unsplash.com/photo-1590153739486-208b4dbb473c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aWNlbGFuZCxib3JlYWx8fHx8fHwxNzAxNjMzMDk0&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "weather"
+        },
+        {
+            "id": 2,
+            "title": "Smart Buses Debut in London",
+            "description": "London introduces smart buses equipped with advanced technology, enhancing the efficiency and sustainability of public transportation.",
+            "location": "London, UK",
+            "date": "2023-09-05",
+            "image": "https://images.unsplash.com/photo-1562274324-7eee6ac3adeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bG9uZG9uLWJ1c3x8fHx8fDE3MDE2MzMyNTE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+            "category": "traffic"
+        },
+        {
+            "id": 3,
+            "title": "Blockchain Summit Job Fair",
+            "description": "Explore job opportunities in the blockchain industry at the Blockchain Summit Job Fair, connecting professionals and innovative companies.",
+            "location": "Global (Virtual)",
+            "date": "2023-10-20",
+            "image": "https://images.unsplash.com/photo-1638947603742-5c9255a2c9d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmxvY2tjaGFpbix8fHx8fHwxNzAxNjMzMzM5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+            "category": "jobs"
+        },
+        {
+            "id": 4,
+            "title": "Robotics Workshop for Kids in Seoul",
+            "description": "Seoul hosts a hands-on robotics workshop for kids, fostering interest and creativity in the field of robotics and technology.",
+            "location": "Seoul, South Korea",
+            "date": "2023-06-05",
+            "image": "https://images.unsplash.com/photo-1668007285666-7cfa7a55827b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9ib3RpY3N8fHx8fHwxNzAxNjMzNDgz&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+            "category": "education"
+        },
+        {
+            "id": 5,
+            "title": "Vintage Market in Amsterdam",
+            "description": "Discover unique treasures at the vintage market in Amsterdam, featuring a wide array of retro and timeless items.",
+            "location": "Amsterdam, Netherlands",
+            "date": "2023-04-12",
+            "image": "https://images.unsplash.com/photo-1494908528889-fa8ed729bcd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dmludGFnZS1tYXJrZXR8fHx8fHwxNzAxNjMzNTMz&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "selling"
+        },
+        {
+            "id": 6,
+            "title": "International Film Festival in Cannes",
+            "description": "Cannes hosts a prestigious International Film Festival, showcasing cinematic excellence from around the globe.",
+            "location": "Cannes, France",
+            "date": "2023-05-25",
+            "image": "https://images.unsplash.com/photo-1583254151818-718df8f2efb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmlsbS1mZXN0aXZhbHx8fHx8fDE3MDE2MzM2MzI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+            "category": "events"
+        },
+        {
+            "id": 7,
+            "title": "Community Picnic in Central Park",
+            "description": "Join the lively community picnic in Central Park, New York, for a day of food, fun, and socializing amidst nature.",
+            "location": "New York, USA",
+            "date": "2023-08-15",
+            "image": "https://images.unsplash.com/photo-1557686652-6731ba12410f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cGljbmljfHx8fHx8MTcwMTYzMzY2NQ&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "social"
+        },
+        {
+            "id": 8,
+            "title": "Virtual Reality Gaming Expo in Tokyo",
+            "description": "Tokyo hosts a cutting-edge Virtual Reality Gaming Expo, offering attendees immersive experiences and a glimpse into the future of gaming.",
+            "location": "Tokyo, Japan",
+            "date": "2023-11-10",
+            "image": "https://images.unsplash.com/photo-1535222636729-76586bf52493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2FtaW5nLWV4cG98fHx8fHwxNzAxNjMzNjk4&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "entertainment"
+        },
+        {
+            "id": 9,
+            "title": "Meditation Retreat in Bali",
+            "description": "Embark on a transformative meditation retreat in Bali, embracing serenity and mindfulness in the lush landscapes of Indonesia.",
+            "location": "Bali, Indonesia",
+            "date": "2023-07-01",
+            "image": "https://images.unsplash.com/photo-1504021624863-054aa77f753f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWVkaXRhdGlvbi1yZXRyZWF0fHx8fHx8MTcwMTYzMzc1OA&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "other"
+        },
+        {
+            "id": 10,
+            "title": "Historical Walking Tour in Rome",
+            "description": "Embark on a historical walking tour in Rome, exploring ancient landmarks and immersing in the rich history of the Eternal City.",
+            "location": "Rome, Italy",
+            "date": "2023-05-20",
+            "image": "https://images.unsplash.com/photo-1573071112008-d8c88c6538e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9tZXx8fHx8fDE3MDE2MzM3OTI&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "other"
+        },
+        {
+            "id": 11,
+            "title": "Outdoor Concert in Melbourne",
+            "description": "Melbourne hosts an electrifying outdoor concert, featuring top artists and creating a memorable musical experience for attendees.",
+            "location": "Melbourne, Australia",
+            "date": "2023-11-02",
+            "image": "https://images.unsplash.com/photo-1568552872281-21d63b00eb88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b3V0ZG9vci1jb25jZXJ0fHx8fHx8MTcwMTYzMzgxNg&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "entertainment"
+        },
+        {
+            "id": 12,
+            "title": "Community Garden Project in New York",
+            "description": "Join the community garden project in New York, fostering a sense of unity and sustainable urban gardening practices.",
+            "location": "New York, USA",
+            "date": "2023-07-07",
+            "image": "https://images.unsplash.com/photo-1454644711177-2c03914db5c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29tbXVuaXR5LWdhcmRlbnx8fHx8fDE3MDE2MzM4NDM&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "social"
+        },
+        {
+            "id": 13,
+            "title": "Culinary Festival in Paris",
+            "description": "Paris hosts a culinary festival, celebrating the diversity of French cuisine with gourmet delights and culinary showcases.",
+            "location": "Paris, France",
+            "date": "2023-09-15",
+            "image": "https://images.unsplash.com/photo-1560479284-b69bb03b5e39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Zm9vZC1mZXN0aXZhbHx8fHx8fDE3MDE2MzM5MzM&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "events"
+        },
+        {
+            "id": 14,
+            "title": "Artisanal Crafts Market in Marrakech",
+            "description": "Explore the vibrant artisanal crafts market in Marrakech, showcasing handmade goods and traditional Moroccan art.",
+            "location": "Marrakech, Morocco",
+            "date": "2023-03-28",
+            "image": "https://images.unsplash.com/photo-1644258676710-ffb99d7d7a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8LGFydGlzYW5hbC1jcmFmdHN8fHx8fHwxNzAxNjMzOTgy&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "selling"
+        },
+        {
+            "id": 15,
+            "title": "Language Exchange Program in Tokyo",
+            "description": "Tokyo launches a language exchange program, promoting cultural exchange and language learning among students.",
+            "location": "Tokyo, Japan",
+            "date": "2023-06-15",
+            "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZ3VhZ2UtcGVvcGxlLWV4Y2hhbmdlfHx8fHx8MTcwMTYzNDA5Mw&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "education"
+        },
+        {
+            "id": 16,
+            "title": "Healthcare Career Fair in Sydney",
+            "description": "Sydney hosts a healthcare career fair, connecting healthcare professionals with leading medical institutions.",
+            "location": "Sydney, Australia",
+            "date": "2023-08-28",
+            "image": "https://images.unsplash.com/photo-1618498082410-b4aa22193b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGVhbHRoY2FyZXx8fHx8fDE3MDE2MzQxMTA&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "jobs"
+        },
+        {
+            "id": 17,
+            "title": "E-Scooter Revolution in Barcelona",
+            "description": "Barcelona embraces the e-scooter revolution, providing a sustainable and convenient alternative for urban commuting.",
+            "location": "Barcelona, Spain",
+            "date": "2023-04-18",
+            "image": "https://images.unsplash.com/photo-1597260491651-ee327fc487b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZS1zY29vdGVyfHx8fHx8MTcwMTYzNDEyNw&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "traffic"
+        },
+        {
+            "id": 18,
+            "title": "Healthcare Career Fair in Sydney",
+            "description": "Sydney hosts a healthcare career fair, connecting healthcare professionals with leading medical institutions.",
+            "location": "Sydney, Australia",
+            "date": "2023-08-28",
+            "image": "https://images.unsplash.com/photo-1547489432-cf93fa6c71ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGVhbHRoY2FyZXx8fHx8fDE3MDE2MzQxNTE&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "jobs"
+        },
+        {
+            "id": 19,
+            "title": "Mild Autumn in Vancouver",
+            "description": "Vancouver enjoys a mild and colorful autumn, with leaves turning vibrant shades of red and gold.",
+            "location": "Vancouver, Canada",
+            "date": "2023-10-10",
+            "image": "https://images.unsplash.com/photo-1698889253094-f12d17315b17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dmFuY291dmVyLGF1dHVtbnx8fHx8fDE3MDE2MzQxNzY&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "weather"
+        },
+        {
+            "id": 20,
+            "title": "Global Coding Challenge for Students",
+            "description": "Students worldwide participate in a coding challenge, showcasing their programming skills and creativity.",
+            "location": "Global",
+            "date": "2023-09-18",
+            "image": "https://images.unsplash.com/photo-1524135329990-07660cd5bf10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nLHByb2dyYW1taW5nfHx8fHx8MTcwMTYzNDIwMw&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "education"
+        },
+        {
+            "id": 21,
+            "title": "Virtual Reality Labs in Seoul Schools",
+            "description": "Seoul introduces virtual reality labs in schools, providing students with immersive and innovative learning experiences.",
+            "location": "Seoul, South Korea",
+            "date": "2023-02-28",
+            "image": "https://images.unsplash.com/photo-1627645812426-67ce7b0a7a81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dmlydHVhbC1yZWFsaXR5fHx8fHx8MTcwMTYzNDIxOQ&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "education"
+        },
+        {
+            "id": 22,
+            "title": "Remote Freelancer Summit",
+            "description": "Join the virtual summit for freelancers, offering insights, networking, and opportunities for remote work professionals worldwide.",
+            "location": "Global (Virtual)",
+            "date": "2023-11-05",
+            "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cmVtb3RlLXdvcmssc3VtbWl0fHx8fHx8MTcwMTYzNDIzNg&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "jobs"
+        },
+        {
+            "id": 23,
+            "title": "Green Energy Job Expo in Berlin",
+            "description": "Berlin showcases career opportunities in the green energy sector, promoting sustainability and environmental stewardship.",
+            "location": "Berlin, Germany",
+            "date": "2023-05-30",
+            "image": "https://images.unsplash.com/photo-1594535182308-8ffefbb661e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z3JlZW4tZW5lcmd5fHx8fHx8MTcwMTYzNDI2Ng&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "jobs"
+        },
+        {
+            "id": 24,
+            "title": "Tech Startup Fair in San Francisco",
+            "description": "San Francisco hosts a tech startup fair, offering job seekers the chance to explore opportunities in the thriving tech industry.",
+            "location": "San Francisco, USA",
+            "date": "2023-07-12",
+            "image": "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaC1zdGFydHVwfHx8fHx8MTcwMTYzNDI5Ng&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "jobs"
+        },
+        {
+            "id": 25,
+            "title": "Cherry Blossom Season in Kyoto",
+            "description": "Kyoto experiences the breathtaking beauty of cherry blossoms, marking the arrival of spring.",
+            "location": "Kyoto, Japan",
+            "date": "2023-04-05",
+            "image": "https://images.unsplash.com/photo-1684743682262-3ba9d45df002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8a3lvdG8sY2hlcnJ5LWJsb3Nzb218fHx8fHwxNzAxNjM0MzI3&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "weather"
+        },
+        {
+            "id": 26,
+            "title": "Thunderstorm Alert in Miami",
+            "description": "Residents of Miami are advised to stay indoors as a powerful thunderstorm approaches the city.",
+            "location": "Miami, USA",
+            "date": "2023-08-20",
+            "image": "https://images.unsplash.com/photo-1590767600885-427b16643a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGh1bmRlcnN0b3JtfHx8fHx8MTcwMTYzNDM0MQ&ixlib=rb-4.0.3&q=80&w=1080",
+            "category": "weather"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "postId": 8,
+            "message": "Wish I could go!"
+        },
+        {
+            "id": 2,
+            "postId": 9,
+            "message": "Should start saving money to go."
+        },
+        {
+            "id": 3,
+            "postId": 7,
+            "message": "You must participate, it's great!"
+        },
+        {
+            "id": 4,
+            "postId": 6,
+            "message": "Hope to see some famous people around."
+        },
+        {
+            "id": 5,
+            "postId": 5,
+            "message": "Just what Amsterdam needed!"
+        },
+        {
+            "id": 6,
+            "postId": 8,
+            "message": "I don't really like games, could you discover a way to teleport tho?"
+        },
+        {
+            "id": 7,
+            "postId": 4,
+            "message": "Anyone knows how much is it?"
+        },
+        {
+            "id": 8,
+            "postId": 1,
+            "message": "Maybe one day I'll be there to see them."
+        }
+    ]
 }
